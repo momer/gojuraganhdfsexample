@@ -1,0 +1,13 @@
+app/app
+*.pem
+*.pkcs12
+*.p12
+main
+*.swp
+*.csv
+*.xlsx
+/app/download/*.gz
+*.done
+temp.sh
+*.DS_Store
+*.bak
